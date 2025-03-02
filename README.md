@@ -1,2 +1,1 @@
-# SAFE-SENIOR
-An App for making seniors independent
+# safe-senior
